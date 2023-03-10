@@ -1,0 +1,13 @@
+@media screen and (max-width: 520px) {
+    body {
+        height: auto;
+    }
+    
+    .label-peso {
+        margin-right: 1.5rem;
+    }
+    
+    .botao {
+        width: auto;
+    }
+}
