@@ -1,6 +1,7 @@
 @media screen and (max-width: 520px) {
     body {
         height: auto;
+        margin-top: 2rem;
     }
     
     .label-peso {
@@ -9,5 +10,17 @@
     
     .botao {
         width: auto;
+    }
+
+    th, td {
+        width: 41vw;
+    }
+
+    td {
+        padding: 1rem 0;
+    }
+
+    tbody {
+        width: 82%;
     }
 }
