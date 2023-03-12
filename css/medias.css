@@ -9,7 +9,8 @@
     }
     
     .botao {
-        width: auto;
+        height: 10vh;
+        width: 50%;
     }
 
     th, td {
